@@ -3,3 +3,6 @@ next
 vscode
 front
 back
+pão
+de
+batata
