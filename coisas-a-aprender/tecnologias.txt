@@ -1,9 +1,0 @@
-javascript
-next
-vscode
-front
-back
-php
-phyton
-java
-rubi
